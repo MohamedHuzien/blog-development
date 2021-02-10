@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09ebf419-7dc5-4911-bb28-ccaf66f392ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-clarity" afterDir="false" />
-    </list>
+    <list default="true" id="09ebf419-7dc5-4911-bb28-ccaf66f392ca" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612959543236</updated>
-      <workItem from="1612959544473" duration="3389000" />
+      <workItem from="1612959544473" duration="3987000" />
     </task>
     <servers />
   </component>
