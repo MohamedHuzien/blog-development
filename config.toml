@@ -3,7 +3,7 @@
 baseurl = "mohamedhuzien.github.io/"  # Include trailing slash
 title = "Clarity"
 author = "Mohamed Huzien"
-copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = "Copyright © 2020–2021, Mohamed Huzien; all rights reserved."
 # canonifyurls = true
 paginate = 10
 theme = "hugo-clarity"
@@ -27,7 +27,7 @@ series = "series"
   [markup.goldmark]
     [markup.goldmark.renderer]
       hardWraps = false
-      unsafe = true # change to false to disable inclusion of rawHTML and math functions
+      unsafe = false # change to false to disable inclusion of rawHTML and math functions
       xhtml = false
     [markup.goldmark.extensions]
       typographer = false
@@ -43,10 +43,10 @@ series = "series"
     tabWidth = 2
 
 [params]
-author = "Jane Doe"
-twitter = "@janedoe"
+author = "Mohamed Huzien"
+twitter = "@mohamed_huzien"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Technologist, perpetual student, teacher, continual incremental improvement."
+introDescription = "Technologist, perpetual Software Engineer, Father. continuous incremental improvement, That's My Ninja Way -Naruto "
 # introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 # description = "" # set your site's description here. will be use for home page content meta tags (seo). Alternatively set this description in your homepage content file i.e content/_index.md. Whatever is set in the latter will take precedence
 
@@ -79,7 +79,7 @@ mainSections = ["post"] # see config details here https://gohugo.io/functions/wh
 # center logo on navbar
 centerLogo = false # Set to "true" for centering or "false" for left aligned.
 
-logo = "logos/logo.png"
+logo = "logos/huzien_logo1.png"
 
 # Label Non inline images on an article body
 figurePositionShow = false # toggle on or off globally
@@ -108,13 +108,13 @@ languageMenuName = "🌐"
 # titleSeparator = "|"
 
 # Enable or disable comment globally. Default to true.
-# comment = false
+# comment = true
 
 # Maximum number of recent posts.
-# numberOfRecentPosts = 8
+# numberOfRecentPosts = 10
 
 # Maximum number of featured posts.
-# numberOfFeaturedPosts = 8
+# numberOfFeaturedPosts = 10
 
 # Date format. Checkout https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference for details.
 # dateFormat = "2006-01-02" # Default to "Jan 2, 2006".
@@ -122,4 +122,4 @@ languageMenuName = "🌐"
 
 # The year when ths website was created, this value is used in the copyright
 # notice of the footer.
-# since = 2016
+ since = 2021

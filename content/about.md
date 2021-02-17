@@ -1,25 +1,14 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "About me"
+description = "Mohamed Huzien, Technologist, perpetual Software Engineer, Father. continuous incremental improvement, That's My Ninja Way -Naruto"
+date = "2021-02-17"
+aliases = ["about-me", "contact"]
+author = "Mohamed Huzien"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hi there, I'm Mohamed Huzien a Software Engineer from Egypt, I'm build software that can scale, in PHP, JAVA, and Go.
+interesting in JS and front end technology, currently I'm working for [Tajawal](https://www.tajawal.ae/en), a traveling company based on Dubai.
 
-Hugo makes use of a variety of open source projects including:
+Technologist, perpetual Software Engineer, Father. continuous incremental improvement, That's My Ninja Way -Naruto
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+This blog I created to share my thought about software, math or thing that got im my mind, and I would love to share.
